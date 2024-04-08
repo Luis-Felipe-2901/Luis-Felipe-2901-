@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 👋 ¡Hola! mi nombre es Luis Felipe.
-Soy un estudiante de ingeniería en software en el cuarto semestre. 
+Soy un estudiante de ingeniería en software en el quinto semestre. 
 
 Me apasiona la programación y la resolución de problemas. Disfruto trabajando en proyectos desafiantes que me permitan aprender y crecer como desarrollador. 
 
